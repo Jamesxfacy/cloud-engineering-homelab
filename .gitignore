@@ -1,0 +1,25 @@
+# Environment files
+.env
+*.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials / Keys
+*.pem
+*.key
+credentials
+credentials.*
