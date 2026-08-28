@@ -23,3 +23,7 @@ Thumbs.db
 *.key
 credentials
 credentials.*
+
+# Kubernetes local secrets
+**/secret.yaml
+**/*-secret.yaml
